@@ -6,17 +6,22 @@ h1{
 h2{
     color: rgb(80, 80, 80)
 }
+h3{
+    color: rgb(47, 47, 47)
+}
 
 #header{
     width: 100%;
     text-align:center;
     margin: auto;
+    font-size: large;
 }
 
 #contactinfo{
-    width: 10%;
-    text-align: right;
+    text-align: left;
     margin: auto;
+    font-size:xx-small;
+
 }
 
 
@@ -74,7 +79,7 @@ h2{
 }
 
 #container4{
-    width: 90%;
+    width: 100%;
     box-sizing: border-box;
     padding: 20px;
     align-items: center;
