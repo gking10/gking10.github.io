@@ -13,11 +13,23 @@ h2{
     margin: auto;
 }
 
+#contactinfo{
+    width: 10%;
+    text-align: right;
+    margin: auto;
+}
+
 
 #header2{
     width: 80%;
     margin: auto;
     overflow: hidden;
+}
+
+#description{
+    width: 80%;
+    text-align:center;
+    margin: auto;
 }
 
 #header3{
